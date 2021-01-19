@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C79E797-FBB4-4E22-8B86-99C29E9F9376}</ProjectGuid>
+    <ProjectGuid>{1F58E296-315E-4225-A66E-B3C7AFF9E5C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson5_2</RootNamespace>
-    <AssemblyName>Lesson5_2</AssemblyName>
+    <RootNamespace>Lesson1_2</RootNamespace>
+    <AssemblyName>Lesson1_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
